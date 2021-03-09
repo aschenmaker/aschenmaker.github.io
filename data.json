@@ -1,5 +1,15 @@
 [
 	{
+		"name": "谷歌",
+		"url": "google.com",
+		"port": 443
+	},
+	{
+		"name": "QQ",
+		"url": "qq.com",
+		"port": 443
+	},
+	{
 		"name": "微伴助手",
 		"url": "weibanzhushou.com",
 		"port": 443
@@ -16,7 +26,6 @@
 	},
 	{
 		"name": "微伴助手资源",
-		"url": "assets.weibanzhushou.com",
-		"port": 443
+		"url": "assets.weibanzhushou.com/web/we-work-webapp/dist/index.a5b65cfef60a545d8766.css",
 	}
 ]
